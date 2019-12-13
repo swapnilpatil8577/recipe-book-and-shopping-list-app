@@ -1,5 +1,9 @@
 # Recipe Book and Shopping List Application [Angular 8].
 
+## Technologies
+
+Angular 8, TypeScript, Bootstrap.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
